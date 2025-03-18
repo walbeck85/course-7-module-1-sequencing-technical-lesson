@@ -35,7 +35,7 @@ To get started, clone this repository and set up the environment:
 
 ```sh
 git clone <repo-url>
-cd sequencing-lesson
+cd course-7-module-1-sequencing-technical-lesson
 pip install -r requirements.txt
 ```
 
