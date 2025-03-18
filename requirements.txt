@@ -1,0 +1,5 @@
+pytest  # For testing
+black  # For code formatting
+flake8  # For linting
+pylint  # Another linting tool
+mypy  # Type checking
