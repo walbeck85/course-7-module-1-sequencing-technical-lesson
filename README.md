@@ -31,11 +31,23 @@ To address these issues, we will:
 
 ### Setting Up the Project
 
-To get started, clone this repository and set up the environment:
+To get started, clone this repository:
 
 ```sh
 git clone <repo-url>
 cd course-7-module-1-sequencing-technical-lesson
+```
+
+Install dependencies using either:
+
+```
+pipenv install
+pipenv shell
+```
+
+or:
+
+```
 pip install -r requirements.txt
 ```
 
