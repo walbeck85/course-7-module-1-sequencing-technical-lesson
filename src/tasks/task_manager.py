@@ -4,8 +4,7 @@ class TaskManager:
 
     def display_tasks(self):
         """Displays the list of tasks."""
-        for idx, task in enumerate(self.tasks, 1):
-            print(f"{idx}. {task}")
+        print(f"\nDisplaying all tasks is not yet implemented")
 
     def filter_tasks(self, keyword):
         """Placeholder for filtering tasks (students will implement)."""
